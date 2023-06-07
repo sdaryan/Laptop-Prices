@@ -2,7 +2,7 @@
 
 One day, Sindakht and Irsa were discussing the prices and quality of laptops. Sindakht guessed that the more expensive a laptop is, the better its quality. But Irsa claimed that she could find two laptops where the price of the first one is less than the second one, but the quality of the first one is better, and she could prove Sindakht wrong. Now, you need to help Irsa by writing a program to verify her claim.
 
-You are given specifications of n laptops. The first line of the input contains an integer n which represents the number of laptops. Each of the next n lines contains two integers which represent the price and quality of each laptop. If you can find two laptops that satisfy Irsa's conditions, print "happy irsa". Otherwise, print "poor irsa" (please note that all letters should be in lowercase).
+You are given specifications of n laptops. The first line of the input contains an integer n which represents the number of laptops. Each of the next n lines contains two integers which represent the price and quality of each laptop. If you can find two laptops that satisfy Irsa's conditions, print "happy irsa". Otherwise, print "poor irsa"
 
 ## Input:
 ```python
